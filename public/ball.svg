@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200">
+  <!-- Чёрный внешний шар -->
+  <circle cx="50" cy="50" r="48" fill="#000"/>
+  
+  <!-- Белый внутренний шар -->
+  <circle cx="50" cy="50" r="35" fill="#fff"/>
+  
+  <!-- Цифра 8 -->
+  <text x="50" y="50" font-size="50" 
+        font-family="Arial" font-weight="bold"
+        text-anchor="middle" 
+        dominant-baseline="central"
+        fill="#000">8</text>
+</svg>
