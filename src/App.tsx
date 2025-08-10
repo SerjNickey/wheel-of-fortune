@@ -1,11 +1,11 @@
-import LandingPage from "./components/LandingPage/LandingPage";
+import WheelOfFortune from "./components/WheelOfFortune/WheelOfFortune";
 
 import { GlobalStyles } from "./GlobalStyles";
 function App() {
   return (
     <>
       <GlobalStyles />
-      <LandingPage />
+      <WheelOfFortune />
     </>
   );
 }
